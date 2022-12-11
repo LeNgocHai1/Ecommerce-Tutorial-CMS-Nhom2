@@ -1,0 +1,32 @@
+2022-11-27T03:15:21+00:00 ERROR Key Id and Key Secret are required.
+2022-11-27T03:15:21+00:00 INFO getRazorpayPaymentParams 230
+2022-11-27T03:15:21+00:00 INFO createOrGetRazorpayOrderId 230 and is1ccCheckout is set to no
+2022-11-27T03:15:21+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 230 and is_magic_checkout_order is set to no
+2022-11-27T03:15:21+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id230
+2022-11-27T03:15:21+00:00 INFO Called createRazorpayOrderId with params orderId 230 and sessionKey razorpay_order_id230
+2022-11-27T03:15:21+00:00 INFO Called getOrderCreationData with params orderId 230
+2022-11-27T03:15:21+00:00 INFO Called getOrderCreationData with params orderId 230 and is1ccOrder is set to no
+2022-11-27T03:15:21+00:00 INFO For order 230
+2022-11-27T03:15:21+00:00 INFO {"receipt":230,"amount":49800,"currency":"VND","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_number":"230"}}
+2022-11-27T03:15:53+00:00 ERROR The api key provided is invalid
+2022-11-27T03:16:11+00:00 ERROR The api key provided is invalid
+2022-11-27T03:16:18+00:00 ERROR The api key provided is invalid
+2022-11-27T03:22:36+00:00 ERROR The api key provided is invalid
+2022-11-27T03:22:45+00:00 ERROR The api key provided is invalid
+2022-11-27T03:22:54+00:00 ERROR The api key provided is invalid
+2022-11-27T03:24:39+00:00 ERROR The api key provided is invalid
+2022-11-27T03:27:44+00:00 ERROR The api key provided is invalid
+2022-11-27T03:27:56+00:00 ERROR The api key provided is invalid
+2022-11-27T03:28:17+00:00 ERROR The api key provided is invalid
+2022-11-27T03:28:41+00:00 ERROR The api key provided is invalid
+2022-11-27T03:29:06+00:00 ERROR The api key provided is invalid
+2022-11-27T07:14:46+00:00 ERROR The api key provided is invalid
+2022-11-27T07:15:01+00:00 ERROR The api key provided is invalid
+2022-11-27T07:15:26+00:00 ERROR The api key provided is invalid
+2022-11-27T07:15:33+00:00 ERROR The api key provided is invalid
+2022-11-27T07:19:49+00:00 ERROR The api key provided is invalid
+2022-11-27T07:45:34+00:00 ERROR The api key provided is invalid
+2022-11-27T07:52:14+00:00 ERROR The api key provided is invalid
+2022-11-27T16:04:30+00:00 ERROR The api key provided is invalid
+2022-11-27T16:04:48+00:00 ERROR The api key provided is invalid
+2022-11-27T16:07:11+00:00 ERROR The api key provided is invalid

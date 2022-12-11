@@ -1,0 +1,198 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Slider and Carousel with Category for "
+"WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-15 12:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: woo-product-slider-carousel.php:146
+#, php-format
+msgid "<p><strong>%s</strong> recommends the following plugin to use.</p>"
+msgstr ""
+
+#: woo-product-slider-carousel.php:147
+#, php-format
+msgid "<p><strong><a href=\"%s\" target=\"_blank\">%s</a> </strong></p>"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:73
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:77
+msgid "Best Selling Product in slider Shortcode"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:108
+msgid "Boost Design"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:107
+msgid "Boost design and best solution for your website."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:87
+msgid "Check Documentation"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display Woocommerce Product Slider/Carousel, Woocommerce Best Selling "
+"Product Slider/Carousel, Woocommerce Featured Product Slider/Carousel with "
+"category. Also work with Gutenberg shortcode block."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:84
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:78
+msgid "Featured Product in slider Shortcode"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:45
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:170
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:119
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:16
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:37
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:61
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.essentialplugin.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugin/woo-product-slider-carousel-"
+"category/"
+msgstr ""
+
+#: woo-product-slider-carousel.php:171
+#, php-format
+msgid ""
+"It looks like you had FREE version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:99
+msgid "Need Support & Solutions?"
+msgstr ""
+
+#: includes/shortcodes/products-slider.php:31
+#: includes/shortcodes/products-slider.php:39
+msgid "Product Grid View - Shortcode"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:76
+msgid "Product in slider Shortcode"
+msgstr ""
+
+#. Name of the plugin
+msgid "Product Slider and Carousel with Category for WooCommerce"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Product Slider and Carousel with Category for WooCommerce with "
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:65
+msgid "Step-1. Create a page like Product Slider OR Best Selling Products."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:49
+msgid "Step-1. This plugin is use to slide Products with 3 option"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:50
+msgid ""
+"Step-2. A) Product Slider, B) Best Selling Product in slider, C) Featured "
+"Product in slider"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:66
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:51
+msgid "Step-3. A) Product Slider : Display all latest products "
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:52
+msgid ""
+"Step-4. B) Best Selling Product in slider : Display all best selling products"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:53
+msgid ""
+"Step-5. C) Featured Product in slider : Display all Featured selling "
+"products. To select a product as a featured click on STAR button on product "
+"list."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:54
+msgid ""
+"Step-6. You can also use <b>Category ID with all 3 shortcode</b> to filter "
+"the products category wise."
+msgstr ""
+
+#: woo-product-slider-carousel.php:170
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/class-wcpscwc-admin.php:52
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-wcpscwc-admin.php:52
+msgid "Upgrade to PRO - Woo Product Slider"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:133
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:171
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/class-wcpscwc-admin.php:49
+msgid "Woo - Product Slider"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:145
+msgid "WPOS Blocks"
+msgstr ""
